@@ -1,5 +1,0 @@
-SET key value
-SET key2 value2
-SADD someset value
-SADD someset value2
-SADD someset value3 value4
